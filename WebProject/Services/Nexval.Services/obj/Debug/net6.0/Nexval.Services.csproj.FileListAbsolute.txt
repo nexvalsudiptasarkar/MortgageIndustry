@@ -1,0 +1,11 @@
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\bin\Debug\net6.0\Nexval.Services.deps.json
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\bin\Debug\net6.0\Nexval.Services.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\bin\Debug\net6.0\ref\Nexval.Services.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\bin\Debug\net6.0\Nexval.Services.pdb
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\ref\Nexval.Services.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services\obj\Debug\net6.0\Nexval.Services.pdb

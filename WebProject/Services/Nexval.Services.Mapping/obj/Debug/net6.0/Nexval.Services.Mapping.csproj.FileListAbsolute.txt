@@ -1,0 +1,12 @@
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\bin\Debug\net6.0\Nexval.Services.Mapping.deps.json
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\bin\Debug\net6.0\Nexval.Services.Mapping.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\bin\Debug\net6.0\ref\Nexval.Services.Mapping.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\bin\Debug\net6.0\Nexval.Services.Mapping.pdb
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\ref\Nexval.Services.Mapping.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.pdb
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Mapping\obj\Debug\net6.0\Nexval.Services.Mapping.csproj.AssemblyReference.cache

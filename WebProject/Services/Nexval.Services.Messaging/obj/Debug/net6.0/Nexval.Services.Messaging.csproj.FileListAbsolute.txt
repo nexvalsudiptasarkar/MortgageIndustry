@@ -1,0 +1,11 @@
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\bin\Debug\net6.0\Nexval.Services.Messaging.deps.json
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\bin\Debug\net6.0\Nexval.Services.Messaging.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\bin\Debug\net6.0\ref\Nexval.Services.Messaging.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\bin\Debug\net6.0\Nexval.Services.Messaging.pdb
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\ref\Nexval.Services.Messaging.dll
+D:\Project\DocuCheif\WebProject\Services\Nexval.Services.Messaging\obj\Debug\net6.0\Nexval.Services.Messaging.pdb

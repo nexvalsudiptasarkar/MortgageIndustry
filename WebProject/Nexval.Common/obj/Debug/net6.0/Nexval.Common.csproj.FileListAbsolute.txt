@@ -1,0 +1,12 @@
+D:\Project\DocuCheif\WebProject\Nexval.Common\bin\Debug\net6.0\Nexval.Common.deps.json
+D:\Project\DocuCheif\WebProject\Nexval.Common\bin\Debug\net6.0\Nexval.Common.dll
+D:\Project\DocuCheif\WebProject\Nexval.Common\bin\Debug\net6.0\ref\Nexval.Common.dll
+D:\Project\DocuCheif\WebProject\Nexval.Common\bin\Debug\net6.0\Nexval.Common.pdb
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.dll
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\ref\Nexval.Common.dll
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.pdb
+D:\Project\DocuCheif\WebProject\Nexval.Common\obj\Debug\net6.0\Nexval.Common.csproj.AssemblyReference.cache

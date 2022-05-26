@@ -1,0 +1,15 @@
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\Nexval.Data.Models.deps.json
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\Nexval.Data.Models.dll
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\ref\Nexval.Data.Models.dll
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\Nexval.Data.Models.pdb
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\Nexval.Data.Common.dll
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\bin\Debug\net6.0\Nexval.Data.Common.pdb
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.csproj.AssemblyReference.cache
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.csproj.CopyComplete
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.dll
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\ref\Nexval.Data.Models.dll
+D:\Project\DocuCheif\WebProject\Data\Nexval.Data.Models\obj\Debug\net6.0\Nexval.Data.Models.pdb

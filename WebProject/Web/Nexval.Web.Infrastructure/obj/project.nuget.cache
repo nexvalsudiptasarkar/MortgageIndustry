@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNdWZSJvXe6LSSnbALFzcAEkZ6+VfKd6bCTVClijWkfxplzXorvMsWSm/L1hAD0VDYP2Z+ufnhxLK4/5aORMnA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\DocuCheif\\WebProject\\Web\\Nexval.Web.Infrastructure\\Nexval.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

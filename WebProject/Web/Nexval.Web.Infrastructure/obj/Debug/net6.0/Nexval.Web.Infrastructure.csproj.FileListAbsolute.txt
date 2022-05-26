@@ -1,0 +1,11 @@
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\bin\Debug\net6.0\Nexval.Web.Infrastructure.deps.json
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\bin\Debug\net6.0\Nexval.Web.Infrastructure.dll
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\bin\Debug\net6.0\ref\Nexval.Web.Infrastructure.dll
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\bin\Debug\net6.0\Nexval.Web.Infrastructure.pdb
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.AssemblyInfo.cs
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.dll
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\ref\Nexval.Web.Infrastructure.dll
+D:\Project\DocuCheif\WebProject\Web\Nexval.Web.Infrastructure\obj\Debug\net6.0\Nexval.Web.Infrastructure.pdb

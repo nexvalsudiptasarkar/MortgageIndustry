@@ -1,0 +1,13 @@
+{
+  "Nexval.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Nexval.Common",
+  "Nexval.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Data\\Nexval.Data.Common",
+  "Nexval.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Data\\Nexval.Data",
+  "Nexval.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Data\\Nexval.Data.Models",
+  "Nexval.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Services\\Nexval.Services.Data",
+  "Nexval.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Services\\Nexval.Services",
+  "Nexval.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Services\\Nexval.Services.Mapping",
+  "Nexval.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Services\\Nexval.Services.Messaging",
+  "Nexval.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Web\\Nexval.Web",
+  "Nexval.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Web\\Nexval.Web.Infrastructure",
+  "Nexval.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\DocuCheif\\WebProject\\Web\\Nexval.Web.ViewModels"
+}

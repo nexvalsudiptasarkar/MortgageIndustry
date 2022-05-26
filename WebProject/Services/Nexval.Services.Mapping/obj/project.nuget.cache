@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4YgP5+chtDicDw4FbfKwj222/DIRS5qaNfVfqer3qYzOj8T7CR/KrWNynKlMJCUEMvRmZWTjVdf6EAsSkUn5g==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\DocuCheif\\WebProject\\Services\\Nexval.Services.Mapping\\Nexval.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\sudipta.sarkar\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
